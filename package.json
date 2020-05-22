@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "^4.15.3",
     "marko": "^4.4.21",
-    "mongoose": "^4.11.5"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {},
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/douglasquintanilha/alura-docker.git"
+    "url": "git+https://github.com/leandro-matos/docker-compose-node.git"
   },
   "keywords": [
     "docker",
@@ -24,7 +24,7 @@
   "author": "Leandro de Matos Pereira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/douglasquintanilha/alura-docker/issues"
+    "url": "https://github.com/leandro-matos/docker-compose-node/issues"
   },
-  "homepage": "https://github.com/douglasquintanilha/alura-docker#readme"
+  "homepage": "https://github.com/leandro-matos/docker-compose-node#readme"
 }
