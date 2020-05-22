@@ -7,6 +7,7 @@ Example on getting started with Docker Compose and Nodejs
 Use the [docker-compose](https://docs.docker.com/compose/compose-file/).
 
 ```bash
+docker-compose build
 docker-compose up -d
 ```
 
