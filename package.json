@@ -1,0 +1,30 @@
+{
+  "name": "leandro-docker",
+  "version": "1.0.0",
+  "description": "Projeto de Docker",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "marko": "^4.4.21",
+    "mongoose": "^4.11.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasquintanilha/alura-docker.git"
+  },
+  "keywords": [
+    "docker",
+    "alura"
+  ],
+  "author": "Leandro de Matos Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasquintanilha/alura-docker/issues"
+  },
+  "homepage": "https://github.com/douglasquintanilha/alura-docker#readme"
+}
